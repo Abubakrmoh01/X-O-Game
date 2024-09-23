@@ -1,0 +1,10 @@
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\bin\Debug\Tic-Tac-Toe game.exe.config
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\bin\Debug\Tic-Tac-Toe game.exe
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\bin\Debug\Tic-Tac-Toe game.pdb
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic-Tac-Toe game.csproj.AssemblyReference.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic_Tac_Toe_game.Form1.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic_Tac_Toe_game.Properties.Resources.resources
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic-Tac-Toe game.csproj.GenerateResource.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic-Tac-Toe game.csproj.CoreCompileInputs.cache
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic-Tac-Toe game.exe
+C:\Users\Mr.Robot\Desktop\C- visual studui\C#\Tic-Tac-Toe game\obj\Debug\Tic-Tac-Toe game.pdb
